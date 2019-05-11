@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 6abe6b3c1f321c6469f90264834874fb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A_F2
+    100002: A_F3
+    100004: A_F4
+    100006: A_F6
+    100008: A_F7
+    100010: B01_B1
+    100012: B03_B3
+    100014: F01_F1
+    100016: Ground_1
+    100018: Ground_1 1
+    100020: Ground_1 2
+    100022: Ground_1 3
+    100024: Ground_1 4
+    100026: Ground_1 5
+    100028: Ground_1 6
+    100030: Ground_10
+    100032: Ground_10 1
+    100034: Ground_10 2
+    100036: Ground_10 3
+    100038: Ground_10 4
+    100040: Ground_10 5
+    100042: Ground_11
+    100044: Ground_11 1
+    100046: Ground_11 2
+    100048: Ground_11 3
+    100050: Ground_11 4
+    100052: Ground_12
+    100054: Ground_12 1
+    100056: Ground_12 2
+    100058: Ground_12 3
+    100060: Ground_2
+    100062: Ground_2 1
+    100064: Ground_2 2
+    100066: Ground_2 3
+    100068: Ground_2 4
+    100070: Ground_2 5
+    100072: Ground_2 6
+    100074: Ground_3
+    100076: Ground_3 1
+    100078: Ground_3 2
+    100080: Ground_3 3
+    100082: Ground_3 4
+    100084: Ground_3 5
+    100086: Ground_3 6
+    100088: Ground_3 7
+    100090: Ground_4
+    100092: Ground_4 1
+    100094: Ground_4 2
+    100096: Ground_4 3
+    100098: Ground_4 4
+    100100: Ground_4 5
+    100102: Ground_4 6
+    100104: Ground_4 7
+    100106: Ground_5
+    100108: Ground_5 1
+    100110: Ground_5 2
+    100112: Ground_5 3
+    100114: Ground_5 4
+    100116: Ground_5 5
+    100118: Ground_5 6
+    100120: Ground_5 7
+    100122: Ground_6
+    100124: Ground_6 1
+    100126: Ground_6 2
+    100128: Ground_6 3
+    100130: Ground_6 4
+    100132: Ground_6 5
+    100134: Ground_6 6
+    100136: Ground_6 7
+    100138: Ground_7
+    100140: Ground_7 1
+    100142: Ground_7 2
+    100144: Ground_7 3
+    100146: Ground_7 4
+    100148: Ground_7 5
+    100150: Ground_7 6
+    100152: Ground_7 7
+    100154: Ground_8
+    100156: Ground_8 1
+    100158: Ground_8 2
+    100160: Ground_8 3
+    100162: Ground_8 4
+    100164: Ground_8 5
+    100166: Ground_8 6
+    100168: Ground_8 7
+    100170: Ground_9
+    100172: Ground_9 1
+    100174: Ground_9 2
+    100176: Ground_9 3
+    100178: Ground_9 4
+    100180: Ground_9 5
+    100182: Ground_9 6
+    100184: //RootNode
+    400000: A_F2
+    400002: A_F3
+    400004: A_F4
+    400006: A_F6
+    400008: A_F7
+    400010: B01_B1
+    400012: B03_B3
+    400014: F01_F1
+    400016: Ground_1
+    400018: Ground_1 1
+    400020: Ground_1 2
+    400022: Ground_1 3
+    400024: Ground_1 4
+    400026: Ground_1 5
+    400028: Ground_1 6
+    400030: Ground_10
+    400032: Ground_10 1
+    400034: Ground_10 2
+    400036: Ground_10 3
+    400038: Ground_10 4
+    400040: Ground_10 5
+    400042: Ground_11
+    400044: Ground_11 1
+    400046: Ground_11 2
+    400048: Ground_11 3
+    400050: Ground_11 4
+    400052: Ground_12
+    400054: Ground_12 1
+    400056: Ground_12 2
+    400058: Ground_12 3
+    400060: Ground_2
+    400062: Ground_2 1
+    400064: Ground_2 2
+    400066: Ground_2 3
+    400068: Ground_2 4
+    400070: Ground_2 5
+    400072: Ground_2 6
+    400074: Ground_3
+    400076: Ground_3 1
+    400078: Ground_3 2
+    400080: Ground_3 3
+    400082: Ground_3 4
+    400084: Ground_3 5
+    400086: Ground_3 6
+    400088: Ground_3 7
+    400090: Ground_4
+    400092: Ground_4 1
+    400094: Ground_4 2
+    400096: Ground_4 3
+    400098: Ground_4 4
+    400100: Ground_4 5
+    400102: Ground_4 6
+    400104: Ground_4 7
+    400106: Ground_5
+    400108: Ground_5 1
+    400110: Ground_5 2
+    400112: Ground_5 3
+    400114: Ground_5 4
+    400116: Ground_5 5
+    400118: Ground_5 6
+    400120: Ground_5 7
+    400122: Ground_6
+    400124: Ground_6 1
+    400126: Ground_6 2
+    400128: Ground_6 3
+    400130: Ground_6 4
+    400132: Ground_6 5
+    400134: Ground_6 6
+    400136: Ground_6 7
+    400138: Ground_7
+    400140: Ground_7 1
+    400142: Ground_7 2
+    400144: Ground_7 3
+    400146: Ground_7 4
+    400148: Ground_7 5
+    400150: Ground_7 6
+    400152: Ground_7 7
+    400154: Ground_8
+    400156: Ground_8 1
+    400158: Ground_8 2
+    400160: Ground_8 3
+    400162: Ground_8 4
+    400164: Ground_8 5
+    400166: Ground_8 6
+    400168: Ground_8 7
+    400170: Ground_9
+    400172: Ground_9 1
+    400174: Ground_9 2
+    400176: Ground_9 3
+    400178: Ground_9 4
+    400180: Ground_9 5
+    400182: Ground_9 6
+    400184: //RootNode
+    2100000: wall1
+    2100002: wall3
+    2100004: wall5
+    2100006: wall6
+    2100008: wall10
+    2100010: wall7
+    2100012: wall11
+    2100014: wall12
+    2100016: wall2
+    2100018: wall4
+    2100020: wall9
+    2100022: wall8
+    2300000: Ground_1
+    2300002: Ground_1 1
+    2300004: Ground_1 2
+    2300006: Ground_1 3
+    2300008: Ground_1 4
+    2300010: Ground_1 5
+    2300012: Ground_1 6
+    2300014: Ground_10
+    2300016: Ground_10 1
+    2300018: Ground_10 2
+    2300020: Ground_10 3
+    2300022: Ground_10 4
+    2300024: Ground_10 5
+    2300026: Ground_11
+    2300028: Ground_11 1
+    2300030: Ground_11 2
+    2300032: Ground_11 3
+    2300034: Ground_11 4
+    2300036: Ground_12
+    2300038: Ground_12 1
+    2300040: Ground_12 2
+    2300042: Ground_12 3
+    2300044: Ground_2
+    2300046: Ground_2 1
+    2300048: Ground_2 2
+    2300050: Ground_2 3
+    2300052: Ground_2 4
+    2300054: Ground_2 5
+    2300056: Ground_2 6
+    2300058: Ground_3
+    2300060: Ground_3 1
+    2300062: Ground_3 2
+    2300064: Ground_3 3
+    2300066: Ground_3 4
+    2300068: Ground_3 5
+    2300070: Ground_3 6
+    2300072: Ground_3 7
+    2300074: Ground_4
+    2300076: Ground_4 1
+    2300078: Ground_4 2
+    2300080: Ground_4 3
+    2300082: Ground_4 4
+    2300084: Ground_4 5
+    2300086: Ground_4 6
+    2300088: Ground_4 7
+    2300090: Ground_5
+    2300092: Ground_5 1
+    2300094: Ground_5 2
+    2300096: Ground_5 3
+    2300098: Ground_5 4
+    2300100: Ground_5 5
+    2300102: Ground_5 6
+    2300104: Ground_5 7
+    2300106: Ground_6
+    2300108: Ground_6 1
+    2300110: Ground_6 2
+    2300112: Ground_6 3
+    2300114: Ground_6 4
+    2300116: Ground_6 5
+    2300118: Ground_6 6
+    2300120: Ground_6 7
+    2300122: Ground_7
+    2300124: Ground_7 1
+    2300126: Ground_7 2
+    2300128: Ground_7 3
+    2300130: Ground_7 4
+    2300132: Ground_7 5
+    2300134: Ground_7 6
+    2300136: Ground_7 7
+    2300138: Ground_8
+    2300140: Ground_8 1
+    2300142: Ground_8 2
+    2300144: Ground_8 3
+    2300146: Ground_8 4
+    2300148: Ground_8 5
+    2300150: Ground_8 6
+    2300152: Ground_8 7
+    2300154: Ground_9
+    2300156: Ground_9 1
+    2300158: Ground_9 2
+    2300160: Ground_9 3
+    2300162: Ground_9 4
+    2300164: Ground_9 5
+    2300166: Ground_9 6
+    3300000: Ground_1
+    3300002: Ground_1 1
+    3300004: Ground_1 2
+    3300006: Ground_1 3
+    3300008: Ground_1 4
+    3300010: Ground_1 5
+    3300012: Ground_1 6
+    3300014: Ground_10
+    3300016: Ground_10 1
+    3300018: Ground_10 2
+    3300020: Ground_10 3
+    3300022: Ground_10 4
+    3300024: Ground_10 5
+    3300026: Ground_11
+    3300028: Ground_11 1
+    3300030: Ground_11 2
+    3300032: Ground_11 3
+    3300034: Ground_11 4
+    3300036: Ground_12
+    3300038: Ground_12 1
+    3300040: Ground_12 2
+    3300042: Ground_12 3
+    3300044: Ground_2
+    3300046: Ground_2 1
+    3300048: Ground_2 2
+    3300050: Ground_2 3
+    3300052: Ground_2 4
+    3300054: Ground_2 5
+    3300056: Ground_2 6
+    3300058: Ground_3
+    3300060: Ground_3 1
+    3300062: Ground_3 2
+    3300064: Ground_3 3
+    3300066: Ground_3 4
+    3300068: Ground_3 5
+    3300070: Ground_3 6
+    3300072: Ground_3 7
+    3300074: Ground_4
+    3300076: Ground_4 1
+    3300078: Ground_4 2
+    3300080: Ground_4 3
+    3300082: Ground_4 4
+    3300084: Ground_4 5
+    3300086: Ground_4 6
+    3300088: Ground_4 7
+    3300090: Ground_5
+    3300092: Ground_5 1
+    3300094: Ground_5 2
+    3300096: Ground_5 3
+    3300098: Ground_5 4
+    3300100: Ground_5 5
+    3300102: Ground_5 6
+    3300104: Ground_5 7
+    3300106: Ground_6
+    3300108: Ground_6 1
+    3300110: Ground_6 2
+    3300112: Ground_6 3
+    3300114: Ground_6 4
+    3300116: Ground_6 5
+    3300118: Ground_6 6
+    3300120: Ground_6 7
+    3300122: Ground_7
+    3300124: Ground_7 1
+    3300126: Ground_7 2
+    3300128: Ground_7 3
+    3300130: Ground_7 4
+    3300132: Ground_7 5
+    3300134: Ground_7 6
+    3300136: Ground_7 7
+    3300138: Ground_8
+    3300140: Ground_8 1
+    3300142: Ground_8 2
+    3300144: Ground_8 3
+    3300146: Ground_8 4
+    3300148: Ground_8 5
+    3300150: Ground_8 6
+    3300152: Ground_8 7
+    3300154: Ground_9
+    3300156: Ground_9 1
+    3300158: Ground_9 2
+    3300160: Ground_9 3
+    3300162: Ground_9 4
+    3300164: Ground_9 5
+    3300166: Ground_9 6
+    4300000: Ground_1
+    4300002: Ground_2
+    4300004: Ground_3
+    4300006: Ground_4
+    4300008: Ground_5
+    4300010: Ground_6
+    4300012: Ground_7
+    4300014: Ground_8
+    4300016: Ground_1
+    4300018: Ground_2
+    4300020: Ground_3
+    4300022: Ground_4
+    4300024: Ground_5
+    4300026: Ground_6
+    4300028: Ground_7
+    4300030: Ground_8
+    4300032: Ground_9
+    4300034: Ground_10
+    4300036: Ground_11
+    4300038: Ground_12
+    4300040: Ground_1
+    4300042: Ground_2
+    4300044: Ground_3
+    4300046: Ground_4
+    4300048: Ground_5
+    4300050: Ground_6
+    4300052: Ground_7
+    4300054: Ground_8
+    4300056: Ground_9
+    4300058: Ground_10
+    4300060: Ground_11
+    4300062: Ground_12
+    4300064: Ground_1
+    4300066: Ground_2
+    4300068: Ground_3
+    4300070: Ground_4
+    4300072: Ground_5
+    4300074: Ground_6
+    4300076: Ground_7
+    4300078: Ground_8
+    4300080: Ground_9
+    4300082: Ground_10
+    4300084: Ground_11
+    4300086: Ground_12
+    4300088: Ground_3
+    4300090: Ground_4
+    4300092: Ground_5
+    4300094: Ground_6
+    4300096: Ground_7
+    4300098: Ground_8
+    4300100: Ground_9
+    4300102: Ground_10
+    4300104: Ground_11
+    4300106: Ground_12
+    4300108: Ground_1
+    4300110: Ground_2
+    4300112: Ground_3
+    4300114: Ground_4
+    4300116: Ground_5
+    4300118: Ground_6
+    4300120: Ground_7
+    4300122: Ground_8
+    4300124: Ground_9
+    4300126: Ground_10
+    4300128: Ground_11
+    4300130: Ground_1
+    4300132: Ground_2
+    4300134: Ground_3
+    4300136: Ground_4
+    4300138: Ground_5
+    4300140: Ground_6
+    4300142: Ground_7
+    4300144: Ground_8
+    4300146: Ground_9
+    4300148: Ground_10
+    4300150: Ground_1
+    4300152: Ground_2
+    4300154: Ground_3
+    4300156: Ground_4
+    4300158: Ground_5
+    4300160: Ground_6
+    4300162: Ground_7
+    4300164: Ground_8
+    4300166: Ground_9
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
