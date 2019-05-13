@@ -1,5 +1,17 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &216020378438821808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3850074543225011127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b340eb96bcb0412285c4566478fa645, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &4082666906541242466
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10,7 +22,7 @@ PrefabInstance:
     - target: {fileID: 992689184106955733, guid: 192044b366fb3d04ba965a0f9de680d6,
         type: 3}
       propertyPath: m_Name
-      value: Machine003
+      value: board-1
       objectReference: {fileID: 0}
     - target: {fileID: 9187690702273277264, guid: 192044b366fb3d04ba965a0f9de680d6,
         type: 3}
@@ -69,3 +81,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 192044b366fb3d04ba965a0f9de680d6, type: 3}
+--- !u!1 &3850074543225011127 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 992689184106955733, guid: 192044b366fb3d04ba965a0f9de680d6,
+    type: 3}
+  m_PrefabInstance: {fileID: 4082666906541242466}
+  m_PrefabAsset: {fileID: 0}
