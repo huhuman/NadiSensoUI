@@ -7,6 +7,7 @@ namespace SensorUI
 
     public class Main : MonoBehaviour
     {
+        SensorBase hitSensor;
         // Start is called before the first frame update
         void Start()
         {
@@ -21,11 +22,20 @@ namespace SensorUI
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
                 if (Physics.Raycast(ray, out hit, 200.0f))
                 {
-                    var hitSensor = hit.transform.GetComponent<SensorBase>();
+                    hitSensor = hit.transform.GetComponent<SensorBase>();
                     if (hitSensor != null)
                     {
                         SensorManagerBase.Instance.ShowUI(hitSensor.sensorType);
                         Debug.Log("Click on: " + hitSensor.sensorType);
+                    }
+                }
+                else
+                {
+                    if (hitSensor != null)
+                    {
+                        SensorManagerBase.Instance.CloseUI(hitSensor.sensorType);
+                        Debug.Log(hitSensor.sensorType + " is closing.");
+                        hitSensor = null;
                     }
                 }
             }

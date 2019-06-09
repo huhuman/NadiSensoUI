@@ -1,0 +1,15 @@
+{
+    "RequestData": {
+        "DefaultProperty": "Default",
+        "ObjectId": "Default",
+        "DisciplineDescriptor": "Default",
+        "DisciplineId": "Default",
+        "SubDisciplineDescriptor": "Default",
+        "UnitId": "1",
+        "PowerValue": "100",
+        "TypeId": "icon.jpg",
+        "SubTypeDescriptor": "Default",
+        "SubTypeId": "Default",
+        "ManagedType": "Default"
+    }
+}

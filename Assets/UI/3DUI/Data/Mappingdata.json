@@ -1,0 +1,7 @@
+{
+    "Mappingdata": {
+        "Icon": "TypeId",
+        "Unit": "UnitId",
+        "Value": "PowerValue"
+    }
+}
